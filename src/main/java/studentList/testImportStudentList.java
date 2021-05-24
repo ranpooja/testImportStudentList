@@ -8,7 +8,7 @@ package studentList;
 import java.util.Scanner;
 
 /**
- *
+ *this class creates a list of students
  * @author pooja
  */
 public class testImportStudentList {
